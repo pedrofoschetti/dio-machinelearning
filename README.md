@@ -6,7 +6,7 @@ Para iniciar, é primordial preparar os dados que serão usados para treinar e t
 
 # Passo 2: Configuração do Azure ML
 
-1. Faça login no Portal Azure (https://portal.azure.com)[https://portal.azure.com] utilizando suas credenciais da Microsoft.
+1. Faça login no Portal Azure (https://portal.azure.com) utilizando suas credenciais da Microsoft.
 
 # Passo 3: Treinamento do modelo
 
