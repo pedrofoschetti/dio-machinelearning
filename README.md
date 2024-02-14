@@ -32,4 +32,6 @@ Para iniciar, é primordial preparar os dados que serão usados para treinar e t
 
 # Passo 5: Implantação e teste do modelo
 
-
+1. Implemente o melhor modelo utilizando as configurações adequadas para o seu projeto.
+2. Aguarde o status da implantação ser alterado
+3. Agora, você poderá testar o seu modelo.
